@@ -1,0 +1,15 @@
+1:55:45 - 2:18:52 --->inspector
+
+2:18:52 - 2:28:52 --->Transition Effect
+
+2:28:52 - 2:45:39 --->Video Effect
+
+2:45:40 - 2:57:39 --->audio editing
+
+2:57:39 - 3:05:22 --->title
+
+3:05:29 - 3:31:01 --->keyframe animation
+
+3:31:02 - 4:12:28 ---> fusion
+
+4:12:31 - 5:00:13 --->color grading
