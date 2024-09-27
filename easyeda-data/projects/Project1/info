@@ -1,0 +1,238 @@
+{
+  "uuid": "e88bf86050b558cba372e93f45a65067",
+  "path": "Offline/Project1",
+  "name": "Project1",
+  "content": "",
+  "created_at": "2024-06-01 20:18:20",
+  "updated_at": "2024-06-04 20:06:01",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "dab6dc49d21fec46d9938d54e3242060",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "057a2503bd5b4956af7efed153dadb66": 1,
+        "8fee29a714514469b6880bf3b9d7aa27": 1,
+        "5720a1c959aa44d39d6ba0f3f8ac05ec": 2,
+        "f58ec5568fe14b358b0335613a208040": 1,
+        "3ec77201bbcd4ecd8722658d581a4e60": 1,
+        "d5defba681fa48b0857383d02d566b31": 1,
+        "f91d84bec1124c2ca077f7db3deb750d": 1,
+        "538780e26c06402fa3b9f315ff45527e": 2,
+        "028b7a3fc8fc48159b6f1b5879ae2cea": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "switch1",
+          1,
+          "DIP SWITCH 6 SWITCHES",
+          "DIP1",
+          {
+            "Supplier": "",
+            "Manufacturer": "DIP",
+            "Manufacturer Part": "DIP switchEI-08",
+            "Supplier Part": "C90019",
+            "Contributor": "nataliafrias",
+            "libConvert": "Yes",
+            "Add into BOM": "Yes",
+            "spiceSymbolName": "switch1",
+            "puuid": "752d4ecbf4654b3cb0baf4cf85e54bfb",
+            "uuid": "d5defba681fa48b0857383d02d566b31"
+          }
+        ],
+        [
+          "C2",
+          1,
+          "HDR-F-2.54_1X9",
+          "H1",
+          {
+            "Supplier Part": "C124417",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-F-2.54_1x9",
+            "puuid": "0c38e359a0594fa0a063521537f7d242",
+            "uuid": "f58ec5568fe14b358b0335613a208040"
+          }
+        ],
+        [
+          "C1",
+          1,
+          "HDR-F-2.54_1X2",
+          "H2",
+          {
+            "Supplier Part": "C49661",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "image": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-F-2.54_1x2",
+            "puuid": "36b1306a115341f4b4d9407fb34974e0",
+            "uuid": "3ec77201bbcd4ecd8722658d581a4e60"
+          }
+        ],
+        [
+          "Nrf 24L",
+          1,
+          "NRF24L01+",
+          "MK1",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "Ashining",
+            "Manufacturer Part": "AS01-ML01D",
+            "Supplier Part": "C84803",
+            "spiceSymbolName": "GRINNANAS01-ML01D_NRF24L01",
+            "puuid": "994cf28a02c14106aa2b749830fbe29a",
+            "uuid": "8fee29a714514469b6880bf3b9d7aa27"
+          }
+        ],
+        [
+          "ARDUINO_NANO",
+          1,
+          "ARDUINO_NANO_T",
+          "NANOU2",
+          {
+            "sourceId": "KGSeAWhDB",
+            "timeStamp": "1452340004",
+            "Manufacturer Part": "?",
+            "puuid": "ca398380c52b4f8aa1e4dea9020613df",
+            "uuid": ""
+          }
+        ],
+        [
+          "Resistor_10K_Ohm",
+          1,
+          "RESISTOR_10KOHM",
+          "R2",
+          {
+            "Contributor": "Kussi",
+            "Supplier Part": "",
+            "Supplier": "",
+            "spiceSymbolName": "Resistor_10K_Ohm",
+            "Manufacturer Part": "",
+            "puuid": "576e6e5dc2db468fb2902a772b4e4a7d",
+            "uuid": "028b7a3fc8fc48159b6f1b5879ae2cea"
+          }
+        ],
+        [
+          "Toggle_Switch_3P",
+          1,
+          "TOGGLE_SWITCH_3P",
+          "SW1",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "i.kamsai",
+            "spiceSymbolName": "Toggle_Switch_3P",
+            "puuid": "ec68d3b0eb7c4655864c31ee260427f5",
+            "uuid": "f91d84bec1124c2ca077f7db3deb750d"
+          }
+        ],
+        [
+          "DRV8833",
+          1,
+          "PICO",
+          "U1",
+          {
+            "catid": "20",
+            "link": "",
+            "Contributor": "labixiaoxin12345",
+            "Supplier Part": "",
+            "Supplier": "M5 Stack",
+            "sim": "true",
+            "spiceSymbolName": "DRV8833",
+            "Manufacturer Part": "",
+            "puuid": "635bcb9471844400ac0cd6765b55ca63",
+            "uuid": "057a2503bd5b4956af7efed153dadb66"
+          }
+        ],
+        [
+          "ScrewTerminals 2x",
+          2,
+          "SCREW_TERMINALS 2X",
+          "U2,U3",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "Gereon99",
+            "spiceSymbolName": "ScrewTerminals 2x",
+            "puuid": "c7047fc518ce4777b50488d428b8c2c7",
+            "uuid": "5720a1c959aa44d39d6ba0f3f8ac05ec"
+          }
+        ],
+        [
+          "LED-5MM-RED",
+          2,
+          "LED-5MM-RED",
+          "U4,U5",
+          {
+            "Contributor": "ford44",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2900262",
+            "Manufacturer": "OSRAM(欧司朗)",
+            "Manufacturer Part": "SFH 313 FA",
+            "spiceSymbolName": "LED-5MM-RED",
+            "puuid": "66b55aa64d7b478ba04086bfee2f2546",
+            "uuid": "538780e26c06402fa3b9f315ff45527e"
+          }
+        ]
+      ],
+      "updateTime": 1717511312,
+      "createTime": 1717344415,
+      "histories": [],
+      "created_at": "2024-06-02 21:36:55",
+      "updated_at": "2024-06-04 19:58:32"
+    },
+    {
+      "uuid": "48adbbc4538ed57fa8b2f3f95547a1f6",
+      "puuid": "e88bf86050b558cba372e93f45a65067",
+      "title": "PCB_Project1",
+      "filename": "PCB_Project1.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0c38e359a0594fa0a063521537f7d242": 1,
+        "36b1306a115341f4b4d9407fb34974e0": 1,
+        "994cf28a02c14106aa2b749830fbe29a": 1,
+        "ca398380c52b4f8aa1e4dea9020613df": 1,
+        "576e6e5dc2db468fb2902a772b4e4a7d": 1,
+        "ec68d3b0eb7c4655864c31ee260427f5": 1,
+        "635bcb9471844400ac0cd6765b55ca63": 1,
+        "c7047fc518ce4777b50488d428b8c2c7": 2,
+        "66b55aa64d7b478ba04086bfee2f2546": 2
+      },
+      "BOM": [],
+      "updateTime": 1717511761,
+      "createTime": 1717511593,
+      "histories": [],
+      "created_at": "2024-06-04 20:03:13",
+      "updated_at": "2024-06-04 20:06:01"
+    }
+  ],
+  "sort": [],
+  "title": "Project1",
+  "foldername": "Project1",
+  "schfilename": "Project1.json",
+  "schfilemtime": 1717511312358
+}

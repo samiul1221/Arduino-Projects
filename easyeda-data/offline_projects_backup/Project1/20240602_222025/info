@@ -1,0 +1,124 @@
+{
+  "uuid": "e88bf86050b558cba372e93f45a65067",
+  "path": "Offline/Project1",
+  "name": "Project1",
+  "content": "",
+  "created_at": "2024-06-01 20:18:20",
+  "updated_at": "2024-06-02 22:20:25",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "dab6dc49d21fec46d9938d54e3242060",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "2a4a3153cc065b5a393ba5f7b7753d6d",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "057a2503bd5b4956af7efed153dadb66": 1,
+        "5cbe824183374fac8e4c1ae848199ce3": 2,
+        "3ec77201bbcd4ecd8722658d581a4e60": 2,
+        "8fee29a714514469b6880bf3b9d7aa27": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HDR-F-2.54_1x2",
+          2,
+          "HDR-F-2.54_1X2",
+          "H1,H2",
+          {
+            "Supplier Part": "C49661",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "image": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-F-2.54_1x2",
+            "puuid": "36b1306a115341f4b4d9407fb34974e0",
+            "uuid": "3ec77201bbcd4ecd8722658d581a4e60"
+          }
+        ],
+        [
+          "LED-0603_R",
+          2,
+          "LED0603_RED",
+          "LED1,LED2",
+          {
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "Supplier Part": "C72044",
+            "Supplier": "LCSC",
+            "link": "",
+            "Contributor": "LCEDA_01",
+            "spiceSymbolName": "LED-0603_R",
+            "puuid": "1efb3a885b5b4aecb6d41221a8f4d86b",
+            "uuid": "5cbe824183374fac8e4c1ae848199ce3"
+          }
+        ],
+        [
+          "Nrf 24L",
+          1,
+          "NRF24L01+",
+          "MK1",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "Ashining",
+            "Manufacturer Part": "AS01-ML01D",
+            "Supplier Part": "C84803",
+            "spiceSymbolName": "GRINNANAS01-ML01D_NRF24L01",
+            "puuid": "994cf28a02c14106aa2b749830fbe29a",
+            "uuid": "8fee29a714514469b6880bf3b9d7aa27"
+          }
+        ],
+        [
+          "ARDUINO_NANO",
+          1,
+          "ARDUINO_NANO_T",
+          "NANOU2",
+          {
+            "sourceId": "KGSeAWhDB",
+            "timeStamp": "1452340004",
+            "Manufacturer Part": "?",
+            "puuid": "ca398380c52b4f8aa1e4dea9020613df",
+            "uuid": ""
+          }
+        ],
+        [
+          "DRV8833",
+          1,
+          "PICO",
+          "U1",
+          {
+            "catid": "20",
+            "link": "",
+            "Contributor": "labixiaoxin12345",
+            "Supplier Part": "",
+            "Supplier": "M5 Stack",
+            "sim": "true",
+            "spiceSymbolName": "DRV8833",
+            "Manufacturer Part": "",
+            "puuid": "635bcb9471844400ac0cd6765b55ca63",
+            "uuid": "057a2503bd5b4956af7efed153dadb66"
+          }
+        ]
+      ],
+      "updateTime": 1717347025,
+      "createTime": 1717344415,
+      "histories": [],
+      "created_at": "2024-06-02 21:36:55",
+      "updated_at": "2024-06-02 22:20:25"
+    }
+  ],
+  "sort": [],
+  "title": "Project1",
+  "foldername": "Project1",
+  "schfilename": "Project1.json",
+  "schfilemtime": 1717347025597
+}

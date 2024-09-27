@@ -1,0 +1,59 @@
+{
+  "uuid": "e88bf86050b558cba372e93f45a65067",
+  "path": "Offline/Project1",
+  "name": "Project1",
+  "content": "",
+  "created_at": "2024-06-01 20:18:20",
+  "updated_at": "2024-06-02 21:38:14",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "dab6dc49d21fec46d9938d54e3242060",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "1f26a5ede46273d4af95946631905931",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "057a2503bd5b4956af7efed153dadb66": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "DRV8833",
+          1,
+          "PICO",
+          "U1",
+          {
+            "catid": "20",
+            "link": "",
+            "Contributor": "labixiaoxin12345",
+            "Supplier Part": "",
+            "Supplier": "M5 Stack",
+            "sim": "true",
+            "spiceSymbolName": "DRV8833",
+            "Manufacturer Part": "",
+            "puuid": "635bcb9471844400ac0cd6765b55ca63",
+            "uuid": "057a2503bd5b4956af7efed153dadb66"
+          }
+        ]
+      ],
+      "updateTime": 1717344494,
+      "createTime": 1717344415,
+      "histories": [],
+      "created_at": "2024-06-02 21:36:55",
+      "updated_at": "2024-06-02 21:38:14"
+    }
+  ],
+  "sort": [],
+  "title": "Project1",
+  "foldername": "Project1",
+  "schfilename": "Project1.json",
+  "schfilemtime": 1717344494406
+}

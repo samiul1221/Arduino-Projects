@@ -1,0 +1,126 @@
+{
+  "uuid": "b6bbed01711ea713c99bcd34b6d107f6",
+  "path": "Offline/Arse LFR",
+  "name": "Arse LFR",
+  "content": "",
+  "created_at": "2024-07-06 12:48:58",
+  "updated_at": "2024-07-06 12:50:22",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "61faeb8383a875d58dfdb4b3420b6af8",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "c0704640e371e0fc8b92c790197c71db",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "538780e26c06402fa3b9f315ff45527e": 2,
+        "d5defba681fa48b0857383d02d566b31": 1,
+        "5720a1c959aa44d39d6ba0f3f8ac05ec": 2,
+        "057a2503bd5b4956af7efed153dadb66": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "switch1",
+          1,
+          "DIP SWITCH 6 SWITCHES",
+          "DIP1",
+          {
+            "Supplier": "",
+            "Manufacturer": "DIP",
+            "Manufacturer Part": "DIP switchEI-08",
+            "Supplier Part": "C90019",
+            "Contributor": "nataliafrias",
+            "libConvert": "Yes",
+            "Add into BOM": "Yes",
+            "spiceSymbolName": "switch1",
+            "puuid": "752d4ecbf4654b3cb0baf4cf85e54bfb",
+            "uuid": "d5defba681fa48b0857383d02d566b31"
+          }
+        ],
+        [
+          "ARDUINO_NANO",
+          1,
+          "ARDUINO_NANO_T",
+          "NANOU2",
+          {
+            "sourceId": "KGSeAWhDB",
+            "timeStamp": "1452340004",
+            "Manufacturer Part": "?",
+            "puuid": "ca398380c52b4f8aa1e4dea9020613df",
+            "uuid": ""
+          }
+        ],
+        [
+          "DRV8833",
+          1,
+          "PICO",
+          "U1",
+          {
+            "catid": "20",
+            "link": "",
+            "Contributor": "labixiaoxin12345",
+            "Supplier Part": "",
+            "Supplier": "M5 Stack",
+            "sim": "true",
+            "spiceSymbolName": "DRV8833",
+            "Manufacturer Part": "",
+            "puuid": "635bcb9471844400ac0cd6765b55ca63",
+            "uuid": "057a2503bd5b4956af7efed153dadb66"
+          }
+        ],
+        [
+          "ScrewTerminals 2x",
+          2,
+          "SCREW_TERMINALS 2X",
+          "U2,U3",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "Gereon99",
+            "spiceSymbolName": "ScrewTerminals 2x",
+            "puuid": "c7047fc518ce4777b50488d428b8c2c7",
+            "uuid": "5720a1c959aa44d39d6ba0f3f8ac05ec"
+          }
+        ],
+        [
+          "LED-5MM-RED",
+          2,
+          "LED-5MM-RED",
+          "U4,U5",
+          {
+            "Contributor": "ford44",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2900262",
+            "Manufacturer": "OSRAM(欧司朗)",
+            "Manufacturer Part": "SFH 313 FA",
+            "spiceSymbolName": "LED-5MM-RED",
+            "puuid": "66b55aa64d7b478ba04086bfee2f2546",
+            "uuid": "538780e26c06402fa3b9f315ff45527e"
+          }
+        ]
+      ],
+      "updateTime": 1720250422,
+      "createTime": 1720250338,
+      "histories": [],
+      "created_at": "2024-07-06 12:48:58",
+      "updated_at": "2024-07-06 12:50:22"
+    }
+  ],
+  "sort": [],
+  "title": "Arse LFR",
+  "foldername": "Arse LFR",
+  "schfilename": "Arse LFR.json",
+  "schfilemtime": 1720250422169
+}

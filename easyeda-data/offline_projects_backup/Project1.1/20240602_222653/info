@@ -1,0 +1,144 @@
+{
+  "uuid": "10c401a0b53f3350fa2a1edf851bd99c",
+  "path": "Offline/Project1.1",
+  "name": "Project1.1",
+  "content": "",
+  "created_at": "2024-06-02 22:21:17",
+  "updated_at": "2024-06-02 22:26:53",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "e8a6678ce09c7c03d3066856420bc83c",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "fcb395d96b7ae6d40ea3b90ea188ec22",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "057a2503bd5b4956af7efed153dadb66": 1,
+        "3ec77201bbcd4ecd8722658d581a4e60": 2,
+        "8fee29a714514469b6880bf3b9d7aa27": 1,
+        "2e9715a0ad5f46feb00f08503138d99e": 1,
+        "9f759453ff3b4d6a98851a9a71203ab4": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HDR-F-2.54_1x2",
+          2,
+          "HDR-F-2.54_1X2",
+          "H1,H2",
+          {
+            "Supplier Part": "C49661",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "image": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-F-2.54_1x2",
+            "puuid": "36b1306a115341f4b4d9407fb34974e0",
+            "uuid": "3ec77201bbcd4ecd8722658d581a4e60"
+          }
+        ],
+        [
+          "5mm_LED_TH_Red",
+          1,
+          "LED-TH_BD5.8-P2.54-FD",
+          "LED1",
+          {
+            "catid": "20",
+            "link": "",
+            "Contributor": "Rafaien_R_Sears",
+            "Supplier Part": "",
+            "Supplier": "",
+            "sim": "true",
+            "spiceSymbolName": "5mm_LED_TH_Red",
+            "Manufacturer Part": "",
+            "puuid": "3270674de653459681213848d7625a65",
+            "uuid": "2e9715a0ad5f46feb00f08503138d99e"
+          }
+        ],
+        [
+          "5mm_LED_TH_Green_Doni",
+          1,
+          "LED-TH_BD5.8-P2.54-FD",
+          "LED2",
+          {
+            "catid": "20",
+            "link": "",
+            "Contributor": "doni4645i",
+            "Supplier Part": "",
+            "Supplier": "DmitryM777",
+            "sim": "true",
+            "spiceSymbolName": "5mm_LED_TH_Green_Doni",
+            "Manufacturer Part": "",
+            "puuid": "3270674de653459681213848d7625a65",
+            "uuid": "9f759453ff3b4d6a98851a9a71203ab4"
+          }
+        ],
+        [
+          "Nrf 24L",
+          1,
+          "NRF24L01+",
+          "MK1",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "Ashining",
+            "Manufacturer Part": "AS01-ML01D",
+            "Supplier Part": "C84803",
+            "spiceSymbolName": "GRINNANAS01-ML01D_NRF24L01",
+            "puuid": "994cf28a02c14106aa2b749830fbe29a",
+            "uuid": "8fee29a714514469b6880bf3b9d7aa27"
+          }
+        ],
+        [
+          "ARDUINO_NANO",
+          1,
+          "ARDUINO_NANO_T",
+          "NANOU2",
+          {
+            "sourceId": "KGSeAWhDB",
+            "timeStamp": "1452340004",
+            "Manufacturer Part": "?",
+            "puuid": "ca398380c52b4f8aa1e4dea9020613df",
+            "uuid": ""
+          }
+        ],
+        [
+          "DRV8833",
+          1,
+          "PICO",
+          "U1",
+          {
+            "catid": "20",
+            "link": "",
+            "Contributor": "labixiaoxin12345",
+            "Supplier Part": "",
+            "Supplier": "M5 Stack",
+            "sim": "true",
+            "spiceSymbolName": "DRV8833",
+            "Manufacturer Part": "",
+            "puuid": "635bcb9471844400ac0cd6765b55ca63",
+            "uuid": "057a2503bd5b4956af7efed153dadb66"
+          }
+        ]
+      ],
+      "updateTime": 1717347413,
+      "createTime": 1717347077,
+      "histories": [],
+      "created_at": "2024-06-02 22:21:17",
+      "updated_at": "2024-06-02 22:26:53"
+    }
+  ],
+  "sort": [],
+  "title": "Project1.1",
+  "foldername": "Project1.1",
+  "schfilename": "Project1.1.json",
+  "schfilemtime": 1717347413669
+}
