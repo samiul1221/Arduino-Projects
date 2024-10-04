@@ -1,6 +1,6 @@
 // Pin definitions
 const int RPWM = 5;  // Pin connected to RPWM on IBT-2 (Forward)
-const int LPWM = 6;  // Pin connected to LPWM on IBT-2 (Reverse)
+const int LPWM = 3;  // Pin connected to LPWM on IBT-2 (Reverse)
 const int R_EN = 7;  // Pin connected to R_EN on IBT-2
 const int L_EN = 8;  // Pin connected to L_EN on IBT-2
 

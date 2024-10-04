@@ -29,10 +29,11 @@ void loop() {
   int Xval = analogRead(joyX);
   int Yval = analogRead(joyY);
 
+      Serial.println(Xval);
 
 
   if(Xval>370){
-    const char Left[] = "LEFT";
+    const char Left[] = "L";
     radio.write(&Left, sizeof(Left));
     Serial.print("L : ");
     Serial.println(Xval);
@@ -40,7 +41,7 @@ void loop() {
     
   }
   else if(Xval<300){
-    const char right[] = "RIGHT";
+    const char right[] = "R";
       radio.write(&right, sizeof(right));
     Serial.print("R : ");
     Serial.println(Xval);
@@ -49,7 +50,7 @@ void loop() {
 
 
     else if(Yval >350){
-    const char up[] = "UP";
+    const char up[] = "U";
       radio.write(&up, sizeof(up));
     Serial.print("U : ");
     Serial.println(Yval);
@@ -57,14 +58,14 @@ void loop() {
   }
 
       else if(Yval < 300){
-    const char down[] = "DOWN";
+    const char down[] = "D";
     radio.write(&down, sizeof(down));
     Serial.print("D : ");
     Serial.println(Yval);
 
   }
   else{
-    const char stop[] = "stop";
+    const char stop[] = "S";
     radio.write(&stop, sizeof(stop));
 
 
